@@ -1,5 +1,5 @@
 ### Hi there 👋
-!An image of @morhadi's Holopin badges, which is a link to view their full Holopin profile
+[![An image of @morhadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morhadi)](https://holopin.io/@morhadi)
 
 I'm Mohammad Rabi Ul Hadi, a Computer Science Engineering Undergraduate at NIT Srinagar. I have gained valuable experience in Web Design and am passionate about science and technology. I enjoy working in team projects, playing football, and paying attention to detail.
 
