@@ -5,9 +5,9 @@ I'm Mohammad Rabi Ul Hadi, a Computer Science Engineering Undergraduate at NIT S
 
 # 📫 Reach Me:
 
-<a href="https://morhadi.github.io/"><img src="https://user-images.githubusercontent.com/20038775/125981966-21ea6863-44b2-4728-ad55-f948dd30c2bd.png">
+<a href="https://github.com/morhadi/"><img src="https://user-images.githubusercontent.com/20038775/125981966-21ea6863-44b2-4728-ad55-f948dd30c2bd.png">
 <a href="mailto:muhd.hadi.ezio@gmail.com"><img src="https://user-images.githubusercontent.com/20038775/125980705-ee8dadae-4a70-4dd5-8518-10f2d9f72ef7.png">
-<a href="https://www.linkedin.com/in/morhadi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
+<a href="www.linkedin.com/in/mohammad-rabi-ul-hadi" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 
 ## 🔭 Current Work:
 - Team Member at ASHRAE (July 2023 - Present)
