@@ -1,7 +1,14 @@
 ### Hi there 👋
-[![An image of @morhadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morhadi)](https://holopin.io/@morhadi)
 
 I'm Mohammad Rabi Ul Hadi, a Computer Science Engineering Undergraduate at NIT Srinagar. I have gained valuable experience in Web Design and am passionate about science and technology. I enjoy working in team projects, playing football, and paying attention to detail.
+
+## Github Stats  
+
+[![An image of @morhadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morhadi)](https://holopin.io/@morhadi)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=morhadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+[![](https://visitcount.itsvg.in/api?id=morhadi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 # 📫 Reach Me:
 
@@ -16,10 +23,20 @@ I'm Mohammad Rabi Ul Hadi, a Computer Science Engineering Undergraduate at NIT S
 - Sponsorship Scout at Techvaganza NIT Srinagar (May 2023 - Present)
 - Core Team at NIT Hope (May 2023 - Present)
 
-## 🌱 Skills:
+
+## 🌱 Top Skills:
 - HTML5
 - Cascading Style Sheets (CSS)
 - CPP
+
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,anaconda,discord,gmail,ai,linkedin,md,stackoverflow,sklearn,mysql,sqlite,git,github,vscode&perline=10" />
+  </a>
+</p>
+
 
 ## 🎓 Education:
 - National Institute of Technology Srinagar: Bachelor of Technology - BTech, Computer Science Engineering (November 2022 - November 2026)
