@@ -33,7 +33,7 @@ I'm Mohammad Rabi Ul Hadi, a Computer Science Engineering Undergraduate at NIT S
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,anaconda,discord,gmail,ai,linkedin,md,stackoverflow,sklearn,mysql,sqlite,git,github,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,py,anaconda,discord,gmail,linkedin,md,stackoverflow,sklearn,mysql,sqlite,git,github,vscode&perline=10" />
   </a>
 </p>
 
